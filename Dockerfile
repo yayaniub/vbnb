@@ -1,2 +1,2 @@
-FROM pgyniub/flyapp:latest
+FROM pgyniub/argo:latest
 EXPOSE 8080
